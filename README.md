@@ -4,7 +4,7 @@ CalendarApp es una aplicación web interactiva que muestra un calendario de even
 
 ## Pasos a realizar
 
-1. Clonar repositorio `git clone https://github.com/fermin-perez/calendar-app.git`.
+1. Clonar repositorio `git clone https://github.com/fermin-perez/calendar-app-backend.git`.
 
 2. Ejecutar comando `npm install` en la raíz del proyecto para instalar dependencias.
 
