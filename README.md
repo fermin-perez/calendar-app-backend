@@ -1,4 +1,4 @@
-# CalendarApp
+# CalendarApp - Backend
 
 CalendarApp es una aplicación web interactiva que muestra un calendario de eventos donde nos permite realizar un CRUD sobre el mismo.
 
